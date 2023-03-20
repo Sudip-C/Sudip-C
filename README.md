@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sudip.chowdhury001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IG0xtWmvcgm4tMMFn3ar7vLwzUXUu3Zd/view?usp=sharing](https://drive.google.com/file/d/1IG0xtWmvcgm4tMMFn3ar7vLwzUXUu3Zd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IG0xtWmvcgm4tMMFn3ar7vLwzUXUu3Zd/view?usp=sharing]<a href="https://drive.google.com/file/d/1IG0xtWmvcgm4tMMFn3ar7vLwzUXUu3Zd/view?usp=sharing">RESUME</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
