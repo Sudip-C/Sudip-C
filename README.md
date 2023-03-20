@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://Sudip-C.github.io](https://Sudip-C.github.io)
+- 👨‍💻 MY Portfolio:- [https://Sudip-C.github.io](https://Sudip-C.github.io)
 
 - 📫 How to reach me **sudip.chowdhury001@gmail.com**
 
