@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻My porytfolio [https://Sudip-C.github.io](https://Sudip-C.github.io)
+- 👨‍💻My porytfolio <a href="https://Sudip-C.github.io/">PORTFOLIO</a>
 
 - 📫 How to reach me **sudip.chowdhury001@gmail.com**
 
