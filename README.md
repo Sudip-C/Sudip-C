@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sudip Chowdhury</h1> 
+
 ![68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966](https://user-images.githubusercontent.com/110247476/229543268-deeb9186-03d1-40ed-8add-6e20e22fa300.gif)
 
-
+<h1 align="center">Hi 👋, I'm Sudip Chowdhury</h1> 
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
